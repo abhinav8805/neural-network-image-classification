@@ -43,8 +43,8 @@ The CNN consists of the following layers:
 
 After training, the model is evaluated on the test set and achieves the following performance:
 
-- **Loss**: _<Insert Actual Loss>_
-- **Accuracy**: _<Insert Actual Accuracy>_
+![image](https://github.com/user-attachments/assets/e4e55ec6-9fe9-4f11-aa1f-961a9796f3c3)
+
 
 ## Inference
 
